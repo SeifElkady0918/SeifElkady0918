@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SeifElkady0918
 - 👀 I’m interested in Embedded systems
-- 💞️ I’m looking to collaborate on a new project in the field of embedded systems
+- 💞️ I’m looking to collaborate on a new project in the field of embedded systems.
 - 📫 How to reach me: via email seif.elkady0918@gmail.com
